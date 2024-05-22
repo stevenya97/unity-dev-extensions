@@ -7,3 +7,6 @@ A place to store various tools, extensions, functions that could be useful for a
     - Game View screenshot function
 - Strings
     - StringExtensions: supports inserting text at an index
+
+- Camera/Object Shake
+- Rotate functions
