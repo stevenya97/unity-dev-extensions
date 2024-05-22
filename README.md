@@ -1,6 +1,6 @@
 # unity-dev-extensions
 
-A place to store various tools, extensions, functions that could be useful for any Unity dev. Add these to your project as you see fit
+A place to compile various scripts offering tools, extensions, and functions that could be useful for any Unity dev.
 
 ## Overview
 - Editor
