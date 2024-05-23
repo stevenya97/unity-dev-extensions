@@ -10,3 +10,4 @@ A place to compile various scripts offering tools, extensions, and functions tha
 
 - Camera/Object Shake
 - Rotate functions
+- Soft limit float
